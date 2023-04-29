@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\bin\Debug\net5.0\Monopoly.exe
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\bin\Debug\net5.0\Monopoly.deps.json
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\bin\Debug\net5.0\Monopoly.runtimeconfig.json
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\bin\Debug\net5.0\Monopoly.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\bin\Debug\net5.0\Monopoly.dll
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\bin\Debug\net5.0\ref\Monopoly.dll
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\bin\Debug\net5.0\Monopoly.pdb
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.AssemblyInfo.cs
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.dll
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\ref\Monopoly.dll
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.pdb
+C:\Users\hp\Desktop\TP corrections\tp4 correction\Monopoly\obj\Debug\net5.0\Monopoly.genruntimeconfig.cache

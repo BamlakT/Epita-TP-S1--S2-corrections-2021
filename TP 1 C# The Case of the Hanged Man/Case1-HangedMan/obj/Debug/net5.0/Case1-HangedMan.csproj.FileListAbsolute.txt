@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\bin\Debug\net5.0\Case1-HangedMan.exe
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\bin\Debug\net5.0\Case1-HangedMan.deps.json
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\bin\Debug\net5.0\Case1-HangedMan.runtimeconfig.json
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\bin\Debug\net5.0\Case1-HangedMan.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\bin\Debug\net5.0\Case1-HangedMan.dll
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\bin\Debug\net5.0\ref\Case1-HangedMan.dll
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\bin\Debug\net5.0\Case1-HangedMan.pdb
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.AssemblyInfo.cs
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.dll
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\ref\Case1-HangedMan.dll
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.pdb
+C:\Users\hp\Desktop\TP corrections\tp1 correction\Case1-HangedMan\obj\Debug\net5.0\Case1-HangedMan.genruntimeconfig.cache

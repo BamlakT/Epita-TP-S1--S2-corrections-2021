@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DxEwdoM+Idk+wfgD2e1n23grGHC3qrmihEsP1VThflPyWCpGoe+xMLE63X00dfNO50wb8+WNvGlwM5+hcOK4cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\TP corrections\\tp6 correction\\Reference\\Reference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.codecoverage\\17.1.0-preview-20211130-02\\microsoft.codecoverage.17.1.0-preview-20211130-02.nupkg.sha512"
+  ],
+  "logs": []
+}

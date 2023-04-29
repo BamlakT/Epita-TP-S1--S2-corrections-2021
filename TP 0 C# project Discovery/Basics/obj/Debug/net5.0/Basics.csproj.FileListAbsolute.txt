@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\bin\Debug\net5.0\Basics.exe
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\bin\Debug\net5.0\Basics.deps.json
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\bin\Debug\net5.0\Basics.runtimeconfig.json
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\bin\Debug\net5.0\Basics.runtimeconfig.dev.json
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\bin\Debug\net5.0\Basics.dll
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\bin\Debug\net5.0\ref\Basics.dll
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\bin\Debug\net5.0\Basics.pdb
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.AssemblyInfo.cs
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.dll
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\ref\Basics.dll
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.pdb
+C:\Users\hp\Desktop\TP corrections\tp0 correction\Basics\obj\Debug\net5.0\Basics.genruntimeconfig.cache
