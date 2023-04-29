@@ -5,10 +5,9 @@ The purpose of this repository is to provide a resource for current and future s
 Projects Included
 The following projects are included in this repository:
 
-TP0: TP C# 0: Discovery
-
-Simple Epita's introduction to C-sharp (Discovery of what C# is )
-
+TP0 - TP 10
+Starting from a Simple introduction to C-sharp (Discovery of what C# is ), to a more complex OOP projects.
+Enjoy programming!
 
 
 Each project folder contains the project files, A PDF and a README file that provides more information about the project, including the purpose, methodology, and outcomes.
